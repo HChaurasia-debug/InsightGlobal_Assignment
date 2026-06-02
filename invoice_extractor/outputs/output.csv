@@ -1,0 +1,51 @@
+filename,seller_name,seller_tax_id,client_name,client_tax_id,invoice_number,invoice_date,net_worth,vat,gross_worth,_ocr_source,_ocr_matched_key
+batch1-0333.jpg,"Solomon, Ford and Ellis",954-73-2478,Hamilton-Jackson,988-96-5706,74819543.0,2020-10-07,12500,10.0,13750.0,csv,batch1-0333
+batch1-0332.jpg,Chavez Ltd,904-77-6503,Roberts Ltd,956-94-0439,13507183.0,2015-09-09,1012672,,1129394.0,csv,batch1-0332.jpg
+batch1-0331.jpg,Ochoa-Scott,GB39FJQT64782214064821,Green LLC,965-99-1263,94138597.0,,.4395.0580.056.532.5,.1738.00,177375.0,csv,batch1-0331
+batch1-0336.jpg,Decker PLC,957-87-4031,Boyle Ltd,993-86-3706,97511742.0,2016-04-07,431493,43149,474642.0,csv,batch1-0336.jpg
+batch1-0334.jpg,,,,,,,,,,csv,batch1-0334
+batch1-0337.jpg,"Snyder, Bryan and Booth",983-70-0913,Ashley-Perry,981-88-6259,94098997.0,2020-10-04,13846.77,10.0,15231.45,csv,batch1-0337
+batch1-0338.jpg,Bailey PLC,GBOZTFLJ75932069756707,Turner Inc,998-92-7755,,,3340.47,,3674.52,csv,batch1-0338.jpg
+batch1-0335.jpg,,,,,,,,,,csv,batch1-0335.jpg
+batch1-0339.jpg,,,,,,,,,,csv,batch1-0339.jpg
+batch1-0340.jpg,,,,,,,,,,csv,batch1-0340
+batch1-0341.jpg,Collins Group,942-76-9532,Pope LLC,918-70-1520,86225018.0,2015-12-18,5409,10.0,5950.0,csv,batch1-0341.jpg
+batch1-0342.jpg,Love Inc,960-75-3286,Brown and Sons,992-88-6386,79064100.0,2018-05-25,8444,108.44,9288.0,csv,batch1-0342
+batch1-0343.jpg,Williams Group,930-72-1637,Frazier-Davis,952-75-5780,69057610.0,2013-08-20,15936.26,1593.63,17529.89,csv,batch1-0343.jpg
+batch1-0344.jpg,,,,,,,,,,csv,batch1-0344.jpg
+batch1-0345.jpg,Jones and Sons,952-76-3987,Hamilton-Simmons,992-84-7640,92919413.0,2020-10-04,5992.26,0.1,6591.93,csv,batch1-0345
+batch1-0346.jpg,,,,,,,,,,csv,batch1-0346
+batch1-0347.jpg,"Henderson, Brown and Carson",975-87-2875,"Brown, Dodson and Weaver",981-79-3397,89042780.0,,2099.42,190.86,2099.42,csv,batch1-0347
+batch1-0348.jpg,Miller Inc,938-92-9047,Conley-Irwin USCGC Jordan FPO AE 99678,997-98-1436 IBAN: GB44KGPS57586718251863,50956755.0,2019-09-06,2904984,10290498,3195482.0,csv,batch1-0348.jpg
+batch1-0349.jpg,,,,,,,,,,csv,batch1-0349.jpg
+batch1-0350.jpg,Daniel-Benson,IBAN: GB4ZSIIA32117664549867,"['McDonald', 'Jordan and Malone']","['', '']",39077025.0,2011-12-15,3546.94,10,3901.63,csv,batch1-0350
+batch1-0351.jpg,,,,,,,,,,csv,batch1-0351
+batch1-0352.jpg,Fernandez LLC,984-86-2338,Brown-Carr,906-94-4177,50554106.0,2012-12-17,171487.5,17148.88,18863.63,csv,batch1-0352
+batch1-0353.jpg,,,,,,,,,,csv,batch1-0353
+batch1-0354.jpg,Garcia Ltd,GB94SZVA49788231227821,"Anderson, Davidson and Webster",['977-75-8747'],49929761.0,,345966,10,380563.0,csv,batch1-0354.jpg
+batch1-0355.jpg,"Logan, Deleon and Ayers",977-99-2004,Moyer-Jones,"[{'TaxId': 907, 'Name': 'Reed Greens'}, {'TaxId': 98}]",92179921.0,2012-11-10,24192,10,26611.0,csv,batch1-0355
+batch1-0356.jpg,Peterson LLC,909-90-0060,"Williams, Yang and Jackson",926-74-8186,23385207.0,2012-06-23,240,10,264.0,csv,batch1-0356.jpg
+batch1-0357.jpg,Houston-Brooks,925-75-9384,"Moore, Hill and Ford",968-92-5785,19507687.0,2018-09-19,55626.97,556270,61189.67,csv,batch1-0357.jpg
+batch1-0358.jpg,"Gardner, Tucker and Martinez",935-91-0274,Robbins Group USS Salas FPO AP 29909,968-87-5481,61660848.0,,241,10241,2653.0,csv,batch1-0358
+batch1-0359.jpg,,,,,,,,,,csv,batch1-0359
+batch1-0360.jpg,Mclean Inc,913-81-7541,Richards and Sons,952-95-0332,58126171.0,2015-08-14,3088430,308843,3397273.0,csv,batch1-0360
+batch1-0361.jpg,Johnson-Young,937-77-5283,"Garcia, Meyer and Cook",907-73-8031,86575728.0,2014-11-24,906.7,10.0,997.37,csv,batch1-0361.jpg
+batch1-0362.jpg,Smith-Torres,927-81-6187,"Medina, Moss and Martin",915-85-0288,76628307.0,,3084.91,10,3393.4,csv,batch1-0362.jpg
+batch1-0363.jpg,Nichols-Powell,956-84-2083,Ballard-Henry USNS Brown FPO AE 78346,923-84-5244,16499996.0,2019-05-05,1950,10,2145.0,csv,batch1-0363
+batch1-0364.jpg,Thomas-Andrade,972-90-5571,"Macdonald, Bentley and Nguyen",988-84-2670,61113263.0,2014-02-04,2393584,239358.4,2632942.0,csv,batch1-0364
+batch1-0365.jpg,Lee Inc,952-96-9876,Olsen Ltd USCGC Mann FPO AA 99322,932-73-0621 IBAN: GB18VIOT32054977817768,41887329.0,2020-11-26,17349.93,10,19084.92,csv,batch1-0365
+batch1-0366.jpg,Williams Ltd,GB61SSSY29384725593585,Gross PLC,963-76-2257,,,63436,10,69780.0,csv,batch1-0366
+batch1-0367.jpg,Day and Sons,IBAN: GB44BXZN39084361371767,"Phillips, Burton and Mcdaniel","['Tax Id: 908-94-9799', 'Tax Id: 932-85-2181']",23995139.0,2015-05-30,84944.82,1010,84944.30934393,csv,batch1-0367
+batch1-0368.jpg,Horne-Fields,964-80-0842,French-Sullivan,905-94-4635,87934175.0,,5938.0,102699.0,5938.0,csv,batch1-0368.jpg
+batch1-0369.jpg,Miller Inc,909-72-0896,"Mason, Melton and Matthews",911-83-0636,64809205.0,2014-08-18,65115,65112,71627.0,csv,batch1-0369.jpg
+batch1-0370.jpg,,,,,11637316.0,,3763.37,0.1,4140.06,csv,batch1-0370.jpg
+batch1-0371.jpg,Lewis and Sons,988-97-7797,Hancock LLC,982-72-2795,39652805.0,2020-03-20,299991,10,329991.0,csv,batch1-0371
+batch1-0372.jpg,,,,,,,,,,csv,batch1-0372.jpg
+batch1-0373.jpg,Jones-Silva,902-82-9449,Stafford and Sons,910-94-4040,99454334.0,2017-07-08,9600,10,10560.0,csv,batch1-0373
+batch1-0374.jpg,Kirby Group,968-79-4900,Martin-Allison,943-81-3637,87873157.0,2017-05-09,,10,660.0,csv,batch1-0374.jpg
+batch1-0375.jpg,"Moore, Thomas and Crosby",943-88-9123,Aguirre Ltd,924-73-4934,23897213.0,2019-07-14,25263,2526,27789.0,csv,batch1-0375.jpg
+batch1-0376.jpg,Ross Group,929-73-9404,Leblanc and Sons,963-87-9848,60518602.0,2016-08-30,256845,10,256845.0,csv,batch1-0376.jpg
+batch1-0377.jpg,,,,,,,,,,csv,batch1-0377
+batch1-0378.jpg,Duran Group,917-88-4853,Mayer-Bates,954-81-3871,,,11993,10,13192.0,csv,batch1-0378.jpg
+batch1-0379.jpg,"Howell, Underwood and Davis",989-83-0730,Gardner LLC,948-94-1459,59051048.0,2015-12-12,26752,3.0,29427.0,csv,batch1-0379
+batch1-0380.jpg,Montgomery LLC,924-83-8802,Campbell-Flores,999-80-5625,13310164,2020-01-16,17045.0,1704.5,18749.5,csv,batch1-0380.jpg
